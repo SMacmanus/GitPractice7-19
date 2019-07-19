@@ -3,6 +3,7 @@ public class Main {
     double b;
     double c;
 
+
     public static void main(String[] args){
         System.out.println("Hello World");
     }
@@ -27,5 +28,6 @@ public class Main {
     }
     public void multiply(double a, double b, double c){
         System.out.println(a * b * c);
+
     }
 }
